@@ -1,0 +1,11 @@
+openai
+langchain
+docx2txt
+pypdf
+streamlit
+tiktoken
+huggingface
+python-dotenv
+sentence_transformers
+faiss-cpu
+streamlit-chat
